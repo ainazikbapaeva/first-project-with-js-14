@@ -1,0 +1,431 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 1440px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0 50px;
+    background-color: aliceblue;
+}
+
+.container {
+    position: relative;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    background-color: #F7F7F7;
+}
+
+.DonateX {
+    margin-top: 25px;
+    font-size: 30px;
+}
+
+.content {
+    margin-top: 25px;
+    font-size: 16px;
+    align-items: center;
+    display: flex;
+    gap: 100px;
+}
+
+.Home {
+    text-decoration: none;
+    color: #303030;
+    font-size: 16px;
+    align-items: center;
+}
+
+.btn {
+    width: 126px;
+    height: 43px;
+    border: none;
+    border-radius: 5px;
+    background-color:  #FF5D24;
+    margin-top: 25px;
+    color: white;
+}
+
+.content-2 {
+    margin-top: 50px;
+}
+
+.Small {
+    font-size: 65px;
+    margin-left: 5px;
+    font-family: Roboto;
+}
+
+.Change {
+    color: #FF5D24;
+}
+
+.content-2 {
+    display: flex;
+    justify-content: center;
+    gap: 290px;
+}
+
+.we-seek {
+    font-size: 18px;
+    margin-top: 50px;
+    line-height: 30px;
+}
+
+.img {
+    margin-top: 90px;
+    margin-left: 90px;
+}
+
+.images {
+    width: 1092.68px;
+    height: 699px;
+}
+
+.fon {
+    width: 314px;
+    height: 360px;
+    position: relative;
+    background-color: white;
+    bottom: 450px;
+    left: 1000px;
+    border-radius: 30px;
+}
+
+.images-2 {
+    position: relative;
+    top: 30px;
+    left: 30px;
+    border-radius: 30px;
+}
+
+.divn {
+    width: 65px;
+    height: 65px;
+    position: relative;
+    bottom: 595px;
+    left: 1130px;
+}
+
+.images-3 {
+    width: 22.23px;
+    height: 17.26px;
+    position: relative;
+    bottom: 45px;
+    left: 23px;
+}
+
+.class {
+    color: #FF5D24;
+    position: relative ;
+    bottom: 580px;
+    left: 1068px;
+}
+
+.Become {
+    font-family: Roboto;
+    font-size: 24px;
+}
+
+.class-1 {
+    width: 113.89px;
+    height: 124.1px;
+    position: relative;
+    bottom: 500px;
+    left: 1225px;
+}
+
+.image {
+    width: 113px;
+    height: 113px;
+    position: relative;
+    bottom: 467px;
+    left: 197px;
+}
+
+.content-3 {
+    width: 314px;
+    height: 360px;
+    position: relative;
+    background-color: #FFFFFF;
+    bottom: 850px;
+    left: 228px;
+    border-radius: 30px;
+}
+
+.images-4 {
+    position: relative;
+    top: 30px;
+    left: 30px;
+    border-radius: 30px;
+}
+
+.images-5 {
+    width: 65px;
+    height: 65px;
+    position: relative;
+    bottom: 995px;
+    left: 353px;
+}
+
+.images-6 {
+    width: 22.23px;
+    height: 17.26px;
+    position: relative;
+    bottom: 45px;
+    left: 23px;
+}
+
+.class-2 {
+    width: 187px;
+    height: 24px;
+    font-family:Roboto;
+    color: #FF5D24;
+    position: relative;
+    bottom: 8px;
+    right: 40px;
+    font-size: 24px;
+}
+
+.class-3 {
+    width: 88px;
+    height: 95px;
+    position: relative;
+    bottom: 1070px;
+    left: 610px;
+}
+
+.container-1 {
+    position: relative;
+    bottom: 1080px;
+    left: 620px;
+    display: flex;
+    gap: 50px;
+}
+
+.container-1 hr{
+    height: 70px;
+    margin-top:15px;
+}
+
+.class-4 {
+    font-size: 50px;
+    font-family: Roboto; 
+}
+
+.class-5 {
+    font-size: 50px;
+    color: #FF5D24;
+    font-family: Roboto;
+}
+
+.container-3 {
+    width: 635px;
+height: 286px;
+background-color: #F7F7F7;
+position: relative;
+bottom: 1450px;
+left: 57px;
+}
+
+.images-7 {
+    position: relative;
+    bottom: 850px;
+    left: 95px;
+    z-index: 1;
+}
+
+.container-2 {
+    position: relative;
+    bottom: 1320px;
+    left: 790px;
+}
+
+.content-4 {
+    width: 118px;
+    height: 39px;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #EFEFEF;
+    color: #FF5D24;
+}
+
+.content-5 {
+    font-family:Roboto ;
+    margin-top: 45px;
+    font-size:50px ;
+}  
+
+.content-6 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+.content-7 {
+    width: 149px;
+    height: 48px;
+    margin-top: 40px;
+    border: none;
+    background-color: #FF5D24;
+    color: #FFFFFF;
+    padding-bottom: 30px 30px;
+    font-size: 16px;
+}
+
+.container-4 {
+   width: 133px;
+   height: 39px;
+   padding: 10px 20px;
+   background: #EFEFEF;
+   position: relative;
+   bottom: 1250px;
+   left: 105px;
+}
+
+.content-8 {
+    color: #FF5D24;
+    text-decoration: none;
+}
+
+.we-do {
+    width: 515px;
+    height: 109px;
+    font-size: 50px;
+    position: relative;
+    bottom: 1220px;
+    left: 105px;
+}
+
+.content-9 {
+    width: 24px;
+    height: 24px;
+    position: relative;
+    bottom: 1300px;
+    left: 1000px;
+}
+
+.span-1 {
+    width: 206px;
+    height: 29px;
+    font-size: 24px;
+    position: relative;
+    bottom: 1305px;
+    left: 1048px;
+}
+
+.content-10 {
+    width: 24px;
+    height: 24px;
+    position: relative;
+    bottom: 1328px;
+    left: 1300px;
+}
+
+.container-6 {
+    display: flex;
+    gap: 60px;
+}
+
+.container-5 {
+    width: 369px;
+    height: 405px;
+    background: #FFFFFF;
+    border-radius: 20px;
+    position: relative;
+    bottom: 1000px;
+    left: 105px;
+}
+
+
+.imgin1{
+    position: relative;
+    bottom: 1350px;
+    left: 170px;
+}
+
+.imgin2{
+    position: relative;
+    bottom: 1368px;
+    left: 110px;
+}
+
+.imgin3{
+    position: relative;
+    bottom: 1350px;
+    left: 470px;
+}
+
+.imgin4{
+    position: relative;
+    bottom: 1370px;
+    left: 403px;
+}
+
+.imgin5{
+    position: relative;
+    bottom: 1350px;
+    left: 770px;
+}
+
+.imgin6{
+    position: relative;
+    bottom: 1370px;
+    left: 703px;
+}
+
+.div-container{
+    position: relative;
+    bottom: 1320px;
+    left: 170px;
+    display: flex;
+    gap: 310px;
+}
+
+.h1-cnt{
+    position: relative;
+    right: 60px;
+}
+
+
+.div-container2{
+    position: relative;
+    bottom: 1290px;
+    left: 170px;
+    line-height: 30px;
+    display: flex;
+    gap: 165px;
+}
+
+
+.span-text{
+    position: relative;
+    bottom: 1270px;
+    left: 170px;
+}
+
+.span-text3{
+    position: relative;
+    bottom: 1290px;
+    left: 595px;
+}
+
+.span-text4{
+    position: relative;
+    bottom: 1310px;
+    left: 1020px;
+}
+
+.container-7 {
+    width: 118px;
+    height: 39px;
+    background-color: #EFEFEF;
+    
+}

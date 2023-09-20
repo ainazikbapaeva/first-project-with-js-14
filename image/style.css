@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bady {
+    max-width: 1440px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.container {
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 400px;
+    background-color: #F7F7F7;
+}
+
+.DonateX {
+    margin-top: 25px;
+    font-size: 30px;
+}
+
+.content {
+    margin-top: 25px;
+    font-size: 16px;
+    align-items: center;
+    display: flex;
+    gap: 100px;
+}
+
+.Home {
+    text-decoration: none;
+    color: #303030;
+    font-size: 16px;
+    align-items: center;
+}
+
+.btn {
+    width: 126px;
+    height: 43px;
+    border: none;
+    border-radius: 5px;
+    background-color:  #FF5D24;
+    margin-top: 25px;
+    color: white;
+}
+
+.content-2 {
+    margin-top: 179px;
+}
+
+.Small {
+    font-size: 65px;
+    margin-left: 90px;
+}
+
+.Change {
+    color: #FF5D24;
+}
+
+.content-2 {
+    display: flex;
+    justify-content: center;
+    gap: 700px;
+}
+
+.we-seek {
+    font-size: 18px;
+    margin-top: 60px;
+    line-height: 30px;
+}
